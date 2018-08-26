@@ -1,0 +1,32 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend-Finder ExpressJS App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyNeagoe/Friend-Finder.git"
+  },
+  "keywords": [
+    "express",
+    "javascript",
+    "survey",
+    "matching",
+    "github"
+  ],
+  "author": "Johnny Neagoe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnyNeagoe/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/JohnnyNeagoe/Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  }
+}
